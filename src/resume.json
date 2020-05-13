@@ -1,0 +1,153 @@
+{
+  "basics": {
+    "name": "Dattatray Patil",
+    "label": "Cloud Engineer | Bsc(Computer Science)",
+    "picture": "images/dattatray.jpg",
+    "x_title": "Hey There! Glad you're here",
+    "summary": "Seeking a Challenging and Responsible Position at Entry Level to Progress & Enhance My Skills.",
+    "location": {
+      "country": "India",
+      "countryCode": "IN",
+      "region": "Nashik, Maharashtra"
+    },
+    "profiles": [
+      {
+        "network": "DEV Community",
+        "username": "DattatrayPatil73076",
+        "url": "https://dev.to/DattatrayPatil73076",
+        "x_icon":"fab fa-2x fa-dev"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "DattatrayPatil",
+        "url": "https://www.linkedin.com/in/dattatray-patil-6587b6169",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "GitHub",
+        "username": "DattatrayPatil73076",
+        "url": "https://github.com/dattatraypatil73076",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ESDS",
+      "position": "Intern-Trainee as Part of Course of PGDACC For 3 Months.",
+      "website": "https://www.esds.co.in",
+      "startDate": "2021-JAN",
+      "endDate": "2020-JUL",
+      "summary": "( 3 Month's Internship ) Joined The IPASS Team, a Government Project for Planning tested the Various Aspects of the Project, Also Joined the BI Team to Know about DC its Maintainance, Requirements & Supply Study, Also Studied & Hands-on Different Cloud-Techs Docker | Kubernetes | eNlight360 | Microservices | GitLab , etc .",
+      "highlights": []
+    },
+    {
+      "company": "PGDACC | Sundip University",
+      "position": "PGDACC | Cloud Computing",
+      "website": "https://www.sundipuniversity.edu.com",
+      "startDate": "2020-JUL",
+      "endDate": "2019-AUG",
+      "summary": "Cloud Computing Concepts | Database Management Systems | SAP Basis | Python | ML | AI | Microservices | Docker | Kubernetes | eNlight360 ",
+      "highlights": []
+    },
+    {
+      "company": " Bsc(Comp. Sci) | KKW College | University of Pune ",
+      "position": "Bachelor of Computer Science",
+      "website": "https://www.unipune.com",
+      "startDate": "2019-May",
+      "endDate": "2016-JUN",
+      "summary": "Object Oriented Programming | Database Management Systems | Operating systems and computers architectures | JAVA | C++ | PHP | JS | Requirements Engineering. ",
+      "highlights": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Containers (Docker, Kubernetes)",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Scripting",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Cloud Concepts, Networking",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "Intermediate",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "System Administration (Linux/Windows) ",
+      "level": "Basic",
+      "keywords": ["DevOps"]
+    },
+    {
+      "name": "Object Oriented Programming",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Programming Languages ( Python, Java, C++, Flutter )",
+      "level": "Advanced",
+      "keywords": ["Software Developer"]
+    },
+    
+    {
+      "name": "Web - Development ( PHP, JS, React, Flask ) ",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Web - Design ( HTML5, CSS, PHP, Bootstrap ) ",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "DBA ( MySQL,PG-SQL,MSSQL )",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Reader",
+      "x_icon": "fa-globe-africa"
+    },
+    {
+      "name": "Dog lover",
+      "x_icon": "fa-dog"
+    },
+    {
+      "name": "Foodie",
+      "x_icon": "fa-utensils"
+    },
+    {
+      "name": "Live in the now",
+      "x_icon": "fa-brain"
+    }
+  ]
+}
