@@ -93,12 +93,12 @@
     },
     {
       "name": "Object Oriented Programming",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
     {
-      "name": "Programming Languages ( Python, Java, C++, Flutter )",
-      "level": "Advanced",
+      "name": "Programming Languages (Python,Java,C++,Flutter)",
+      "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
     
@@ -108,7 +108,7 @@
       "keywords": ["Software Developer"]
     },
     {
-      "name": "Web - Design ( HTML5, CSS, PHP, Bootstrap ) ",
+      "name": "Web - Design ( HTML5, CSS, Bootstrap ) ",
       "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
@@ -118,7 +118,7 @@
       "keywords": ["Software Developer"]
     },    {
       "name": "Git",
-      "level": "Intermediate",
+      "level": "Basic",
       "keywords": ["Software Developer"]
     }
   ],
