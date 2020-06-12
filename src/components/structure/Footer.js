@@ -6,7 +6,7 @@ function Footer() {
       <div className="content has-text-centered has-text-white">
         <p>
           Built at <i className="fas fa-moon"></i> by{" "}
-          <a href="https://dattatray.netlify.app/blog" className="has-text-white">
+          <a href="https://dattatray-blog.000webhostapp.com" className="has-text-white">
             <strong>__𝒯𝒽𝑒 𝒩𝑜𝑜𝒷__</strong>
           </a>
         </p>
